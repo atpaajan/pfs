@@ -1,6 +1,6 @@
-# pfs
+# Probabilistic Fire Simulator (PFS)
 
-Probabilistic Fire Simulator (PFS) is an engineering tool for probabilistic fire risk assessment. PFS is implemented as a Microsoft Excel workbook with Visual Basic for Applications (VBA) subroutines for statistics and interfacing with Fire Dynamics Simulator (FDS). PFS is developed by researchers at Aalto University and VTT Technical Research Centre of Finland. 
+PFS is an engineering tool for probabilistic fire risk assessment. PFS is implemented as a Microsoft Excel workbook with Visual Basic for Applications (VBA) subroutines for statistics and interfacing with Fire Dynamics Simulator (FDS). PFS is developed by researchers at Aalto University and VTT Technical Research Centre of Finland. 
 
 Applications 
 - User interface for creating FDS input files 
